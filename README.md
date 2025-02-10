@@ -8,7 +8,6 @@ Le dataset **StudentPerformanceFactors.csv** (Kaggle) est utilisé, contenant de
 - Heures d'étude
 - Qualité de l'enseignement
 - Implication des parents
-- Activités extrascolaires
 - Genre (H/F)
 
 ## 🛠️ Technologies et Outils
@@ -32,25 +31,13 @@ Le dataset **StudentPerformanceFactors.csv** (Kaggle) est utilisé, contenant de
 - Impact du genre sur la prédiction des scores
 - Visualisation des résultats avec Matplotlib et Seaborn
 
-## 🚀 Exécution du Projet
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/ton-pseudo/Projet_Machine_Learning_Exam_Scores.git
-   ```
-2. Installer les dépendances :
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Exécuter le notebook dans Jupyter :
-   ```bash
-   jupyter notebook
-   ```
+
 
 ## 📎 Liens Utiles
-- 📂 [Dataset Kaggle](https://www.kaggle.com/) *(ajoute ici le lien exact du dataset)*
-- 📄 [Notebook sur GitHub](https://github.com/ton-pseudo/Projet_Machine_Learning_Exam_Scores/blob/main/mon_notebook.ipynb)
+- 📂 [Dataset Kaggle](https://www.kaggle.com/) (https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+
 
 ## 📬 Contact
-👩‍💻 **Farida BIGBALA**  
-📧 *farida28bigbala@gmail.com*  
+👩‍💻 Farida BIGBALA 
+📧 farida28bigbala@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/farida-ladi-bigbala)
